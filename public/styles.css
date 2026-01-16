@@ -1326,18 +1326,6 @@ section h2 {
     }
 }
 
-/* Button Improvements - Version 1 */
-.btn-primary {
-    background-color: #667eea;
-    border-radius: 8px;
-    font-weight: 600;
-}
-
-.btn-secondary {
-    background-color: #6c757d;
-    border-radius: 8px;
-}
-
 /* Button Colors - Version 2 */
 .btn-primary {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
